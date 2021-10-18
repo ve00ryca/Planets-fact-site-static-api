@@ -17,8 +17,8 @@
     "radius": "58,232 KM",
     "temperature": "-138°c",
     "images": {
-      "planet": "./assets/planet-saturn.svg",
-      "internal": "./assets/planet-saturn-internal.svg",
-      "geology": "./assets/geology-saturn.png"
+      "planet": "../assets/planet-saturn.svg",
+      "internal": "../assets/planet-saturn-internal.svg",
+      "geology": "../assets/geology-saturn.png"
     }
   }
